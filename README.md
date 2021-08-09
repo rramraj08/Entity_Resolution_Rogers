@@ -21,9 +21,9 @@ DeDupe to deduplicate and Link records
 
 Libraries/Packages used:
 
-Pandas
-Numpy
-Pandas_dedupe
-Matplotlib
-Seaborn
+Pandas\
+Numpy\
+Pandas_dedupe\
+Matplotlib\
+Seaborn\
 NLTK
